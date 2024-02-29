@@ -1,0 +1,11 @@
+.layout{
+    display:grid;
+    grid-template-areas: 
+    "header"
+    "main"
+    "footer";
+    height: 100%;
+    grid-template-rows: 6rem 1fr 4rem;
+    
+
+}

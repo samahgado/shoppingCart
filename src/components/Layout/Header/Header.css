@@ -1,0 +1,19 @@
+.header {
+  padding-block: 1rem;
+  padding-inline-start: 2rem;
+  padding-inline-end: 4rem;
+  grid-area: header;
+  background-color: rgb(46, 79, 80);
+  color: antiquewhite;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  justify-content: space-between;
+}
+.header .logo{
+  text-decoration: none;
+  color: antiquewhite;
+}
+.header-cart a {
+  text-decoration: none;
+}
